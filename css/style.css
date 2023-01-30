@@ -15,3 +15,24 @@ header {
     padding-left: 5px;
     margin-top: 35px;
 }
+
+#title {
+    padding-top: 20px;
+    padding-left: 5px;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+.edit-info {
+    color: #878787;
+}
+
+#author-date {
+    font-size: 18px;
+}
+
+.author {
+    color: #37b2e8;
+}
