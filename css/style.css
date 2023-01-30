@@ -10,13 +10,13 @@ header {
     background-size: 360px;
 }
 
-main {
-    padding-left: 5px;
-}
-
 #logo {
     height: 45px;
     margin-top: 35px;
+    padding-left: 5px;
+}
+
+main {
     padding-left: 5px;
 }
 
@@ -30,6 +30,7 @@ h1 {
 
 .edit-info {
     color: #878787;
+    margin-bottom: 15px;
 }
 
 #author-date {
@@ -51,6 +52,12 @@ h1 {
 
 #main-content {
     font-size: 15px;
+    margin: 20px 0 20px 0;
+}
+
+table {
+    margin: 20px 0 20px 0;
+    border-collapse: collapse;
 }
 
 thead {
@@ -61,8 +68,17 @@ thead {
     background-color: #b1e5f2;
 }
 
+.paragraph {
+    margin-bottom: 15px;;
+}
+
 .suggestion {
     color: #858585;
+    margin-bottom: 10px;
+}
+
+.highlighted {
+    background-color: yellow;
 }
 
 .monitor {
@@ -71,6 +87,7 @@ thead {
     height: 208px;
     width: 280px;
     color: white;
+    margin-bottom: 10px;
 }
 
 .graph {
@@ -79,8 +96,6 @@ thead {
     height: 208px;
     width: 280px;
     color: white;
+    margin-bottom: 20px;
 }
 
-.highlighted {
-    background-color: yellow;
-}
