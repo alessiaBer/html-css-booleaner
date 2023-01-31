@@ -83,6 +83,8 @@ thead {
     background-color: yellow;
 }
 
+/* invece di ripetere tutte le proprietà si poteva mettere un id per le immagini diverse e una classe comune */
+
 .monitor {
     background-image: url('../img/monitor.jpg');
     background-repeat: no-repeat;
